@@ -1,0 +1,25 @@
+
+a:link
+{
+    color: black;
+    border-bottom: 0ch;
+}
+:hover
+{
+    color: black;
+    border-bottom: 0ch;
+}
+:active
+{
+    color: black;
+    border-bottom: 0ch;
+}
+:visited
+{
+    color: black;
+    border-bottom: 0ch;
+}
+.h_size
+{
+    font-size: 21px;
+}
